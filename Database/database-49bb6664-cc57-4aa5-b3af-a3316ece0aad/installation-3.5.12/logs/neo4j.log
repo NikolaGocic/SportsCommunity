@@ -1,0 +1,58 @@
+2020-01-05 02:24:09.129+0000 INFO  ======== Neo4j 3.5.12 ========
+2020-01-05 02:24:09.142+0000 INFO  Starting...
+2020-01-05 02:24:10.408+0000 INFO  Initiating metrics...
+2020-01-05 02:24:17.897+0000 INFO  Sending metrics to CSV file at C:\Users\Sasa\.Neo4jDesktop\neo4jDatabases\database-49bb6664-cc57-4aa5-b3af-a3316ece0aad\installation-3.5.12\metrics
+2020-01-05 02:24:20.544+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2020-01-05 02:24:20.936+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2020-01-05 02:24:20.938+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2020-01-05 02:24:22.534+0000 INFO  Started.
+2020-01-05 02:24:22.769+0000 INFO  Mounted REST API at: /db/manage
+2020-01-05 02:24:22.899+0000 INFO  Server thread metrics have been registered successfully
+2020-01-05 02:24:23.872+0000 INFO  Remote interface available at http://localhost:7474/
+2020-01-05 03:24:00.609+0000 WARN  The client is unauthorized due to authentication failure.
+2020-01-05 03:24:00.929+0000 WARN  The client is unauthorized due to authentication failure.
+2020-01-05 03:26:29.364+0000 WARN  Failed authentication attempt for 'Neo4j' from 127.0.0.1
+2020-01-05 03:40:13.959+0000 INFO  ======== Neo4j 3.5.12 ========
+2020-01-05 03:40:14.079+0000 INFO  Starting...
+2020-01-05 03:40:22.698+0000 INFO  Initiating metrics...
+2020-01-05 03:40:46.620+0000 INFO  Sending metrics to CSV file at C:\Users\Sasa\.Neo4jDesktop\neo4jDatabases\database-49bb6664-cc57-4aa5-b3af-a3316ece0aad\installation-3.5.12\metrics
+2020-01-05 03:40:49.563+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2020-01-05 03:40:50.151+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2020-01-05 03:40:50.189+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2020-01-05 03:41:00.470+0000 INFO  Started.
+2020-01-05 03:41:01.740+0000 INFO  Mounted REST API at: /db/manage
+2020-01-05 03:41:02.047+0000 INFO  Server thread metrics have been registered successfully
+2020-01-05 03:41:03.560+0000 INFO  Remote interface available at http://localhost:7474/
+2020-01-05 15:33:17.382+0000 INFO  ======== Neo4j 3.5.12 ========
+2020-01-05 15:33:17.568+0000 INFO  Starting...
+2020-01-05 15:33:24.373+0000 INFO  Initiating metrics...
+2020-01-05 15:33:41.525+0000 INFO  Sending metrics to CSV file at C:\Users\Sasa\.Neo4jDesktop\neo4jDatabases\database-49bb6664-cc57-4aa5-b3af-a3316ece0aad\installation-3.5.12\metrics
+2020-01-05 15:33:44.085+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2020-01-05 15:33:44.725+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2020-01-05 15:33:44.737+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2020-01-05 15:33:51.266+0000 INFO  Started.
+2020-01-05 15:33:52.808+0000 INFO  Mounted REST API at: /db/manage
+2020-01-05 15:33:53.406+0000 INFO  Server thread metrics have been registered successfully
+2020-01-05 15:33:57.143+0000 INFO  Remote interface available at http://localhost:7474/
+2020-01-07 16:32:20.868+0000 INFO  ======== Neo4j 3.5.12 ========
+2020-01-07 16:32:21.021+0000 INFO  Starting...
+2020-01-07 16:32:25.068+0000 INFO  Initiating metrics...
+2020-01-07 16:32:34.050+0000 INFO  Sending metrics to CSV file at C:\Users\Sasa\.Neo4jDesktop\neo4jDatabases\database-49bb6664-cc57-4aa5-b3af-a3316ece0aad\installation-3.5.12\metrics
+2020-01-07 16:32:35.549+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2020-01-07 16:32:37.127+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2020-01-07 16:32:37.131+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2020-01-07 16:32:41.113+0000 INFO  Started.
+2020-01-07 16:32:42.092+0000 INFO  Mounted REST API at: /db/manage
+2020-01-07 16:32:42.397+0000 INFO  Server thread metrics have been registered successfully
+2020-01-07 16:32:44.000+0000 INFO  Remote interface available at http://localhost:7474/
+2020-01-09 15:29:44.029+0000 INFO  ======== Neo4j 3.5.12 ========
+2020-01-09 15:29:44.078+0000 INFO  Starting...
+2020-01-09 15:29:47.658+0000 INFO  Initiating metrics...
+2020-01-09 15:29:56.676+0000 INFO  Sending metrics to CSV file at C:\Users\Sasa\.Neo4jDesktop\neo4jDatabases\database-49bb6664-cc57-4aa5-b3af-a3316ece0aad\installation-3.5.12\metrics
+2020-01-09 15:29:58.331+0000 INFO  Bolt enabled on 127.0.0.1:7687.
+2020-01-09 15:29:59.791+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.all)
+2020-01-09 15:29:59.824+0000 WARN  Server thread metrics not available (missing neo4j.server.threads.jetty.idle)
+2020-01-09 15:30:02.844+0000 INFO  Started.
+2020-01-09 15:30:03.538+0000 INFO  Mounted REST API at: /db/manage
+2020-01-09 15:30:03.773+0000 INFO  Server thread metrics have been registered successfully
+2020-01-09 15:30:05.209+0000 INFO  Remote interface available at http://localhost:7474/
