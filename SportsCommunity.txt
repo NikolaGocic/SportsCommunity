@@ -4,7 +4,7 @@ Baza: Neo4j
 
 Tema: SportsCommunity
 
-Opis projekta: Web aplikacija koja omogućava jednostavnu interakciju između korisnika radi organizovanja raznih sportskih aktivnosti, takmicenja i treninga.
+Opis projekta: Desktop aplikacija koja omogućava jednostavnu interakciju između korisnika radi organizovanja raznih sportskih aktivnosti, takmicenja i treninga.
 Svaki korisnik moze imati prijatelje.
 Korisnik ima mogucnost da kreira dogadjaj, da se pridruzi nekom dogadjaju i da pretrazuje dogadjaje u zavisnosti od vrste sportske aktivnosti kojom zeli da se bavi.
 Takodje korisnik moze da pretrazuje dogadjaje u zavisnosti od lokacije i vremena, kao i da vidi dogadjaje za koje su zainteresovani njegovi prijatelji.
